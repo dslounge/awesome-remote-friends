@@ -1,5 +1,5 @@
 # awesome-remote-friends
-A list of resources for hanging out with remote friends. Would love to 
+A list of resources for hanging out with remote friends. Would love to have your help in filling this out.
 
 ## Video chatting:
 * https://zoom.us/ - Freemium. Desktop/Browser App. High quality video chat with friends, free for up to 45 mins at a time.
