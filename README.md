@@ -5,6 +5,7 @@ A list of resources for hanging out with remote friends. Would love to have your
 * https://zoom.us/ - Freemium. Desktop/Browser App. High quality video chat with friends, free for up to 45 mins at a time.
 * https://houseparty.com/ - Free. Mobile App. Make yourself available on the app, and it notifies your friends that you're free to hang out.
 * https://whereby.com/ - Freemium. Up to 4 meeting participants. Open YouTube videos to play for everyone in the room.
+* https://snapcamera.snapchat.com/ - Free. Mac and PC. Snap Camera lets you use fun Snapchat lenses in your video calls. 
 
 ## Gaming
 
