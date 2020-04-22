@@ -13,6 +13,8 @@ A list of resources for hanging out with remote friends. Would love to have your
 * https://skribbl.io/ - Free. Multiplayer drawing and guessing game on the browser.
 * https://www.drawasaurus.org/ - Free. a drawing & guessing game for your phone, tablet or PC.
 * https://www.jackboxgames.com/ - Paid. Popular party games available on console/PC. Only one person needs to have a copy, friends play through their mobile browsers.
+* https://www.horsepaste.com/ Free. Browser version of the Codenames board game.
+* https://secrethitler.io/ Free. Browser version of the Secret Hitler board game. (Officialish?).
 
 
 ## Watching:
