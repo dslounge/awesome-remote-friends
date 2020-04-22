@@ -5,11 +5,13 @@ A list of resources for hanging out with remote friends. Would love to have your
 * https://zoom.us/ - Freemium. Desktop/Browser App. High quality video chat with friends, free for up to 45 mins at a time.
 * https://houseparty.com/ - Free. Mobile App. Make yourself available on the app, and it notifies your friends that you're free to hang out.
 
-## Gaming:
+## Gaming
 
-* https://tabletopia.com/ - Free. Popular board games on the browser
-* https://www.jackboxgames.com/ - Paid. Popular online games available on all platforms.
+* https://tabletopia.com/ - Free. Popular board games on the browser.
 * https://skribbl.io/ - Free. Multiplayer drawing and guessing game on the browser.
+* https://www.drawasaurus.org/ - Free. a drawing & guessing game for your phone, tablet or PC.
+* https://www.jackboxgames.com/ - Paid. Popular party games available on console/PC. Only one person needs to have a copy, friends play through their mobile browsers.
+
 
 ## Watching:
 * https://www.netflixparty.com/ - Free. Browser extension that lets you watch Netflix synchronized with your friends.
